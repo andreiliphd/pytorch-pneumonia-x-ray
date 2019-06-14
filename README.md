@@ -27,6 +27,3 @@ No additional instructions needed just run the neural network.
 You can check out the full license in the LICENSE file.
 
 This project is licensed under the terms of the **MIT** license.
-
-# pytorch-pneumonia-x-ray
-Deep learning medical analysis of x-ray shots on pneumonia using PyTorch.
